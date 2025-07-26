@@ -1,0 +1,10 @@
+{
+  "name": "render-hls-code",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node convert-upload.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.0"
+  }
+}
